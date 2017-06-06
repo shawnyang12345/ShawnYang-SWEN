@@ -1,0 +1,9 @@
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.dacpac
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.dll
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.pdb
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\Model.xml
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\refactor.xml
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\postdeploy.sql
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\predeploy.sql
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.dll
+C:\Users\Ai\Desktop\SWEN\Assignment 3\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb
