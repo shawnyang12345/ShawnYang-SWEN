@@ -1,0 +1,10 @@
+C:\Users\Ai\Desktop\SWEN\Assignment 3\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.dacpac
+C:\Users\Ai\Desktop\SWEN\Assignment 3\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.dll
+C:\Users\Ai\Desktop\SWEN\Assignment 3\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.pdb
+C:\Users\Ai\Desktop\SWEN\Assignment 3\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\obj\Debug\RoomAvailableDatabaseVer2.dll
+C:\Users\Ai\Desktop\SWEN\Assignment 3\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\obj\Debug\RoomAvailableDatabaseVer2.pdb
+C:\Users\user\Desktop\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.dacpac
+C:\Users\user\Desktop\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.dll
+C:\Users\user\Desktop\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\bin\Debug\RoomAvailableDatabaseVer2.pdb
+C:\Users\user\Desktop\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\obj\Debug\RoomAvailableDatabaseVer2.dll
+C:\Users\user\Desktop\RoomAvailableDatabaseVer2\RoomAvailableDatabaseVer2\obj\Debug\RoomAvailableDatabaseVer2.pdb
